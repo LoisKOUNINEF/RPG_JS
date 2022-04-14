@@ -5,5 +5,11 @@
 
 </div>
 </br></br>
+### More like a small battle arena than an actual RPG, but meh, I don't want to rename the repo.
+<br>
+- Open the index.html file in your favorite browser and you're ready to go !
+- Careful, do not miss an input or cancel the prompt, or you'll lose your turn ! ( -- it's not a bug, it's a feature -- )
+- Not so enjoyable but functionnal !
+- Peace !
 
-<p><img src="https://www.serveurbook.com/wp-content/uploads/2017/03/logo-wow.png"></p>
+<p align="center" width="100%"><img width="33%" src="https://www.serveurbook.com/wp-content/uploads/2017/03/logo-wow.png"></p>
