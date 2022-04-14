@@ -5,16 +5,16 @@ class Wizard extends Character {
   }
 
   specialAttack(opponent) {
-    this.dmg = 8;
+    this.dmg = 7;
     alert(`${this.name} casts ${this.spe} on ${opponent.name}.`);
     this.dealDamage(opponent);
     this.dmg = 2;
-    this.mana -= 25;
+    this.mana -= 50;
   }
 
   seeSpecialAttack() {
     alert(
-      `${this.spe}\n- Deals 7 damage.\n- Costs 25 mana.`
+      `${this.spe}\n- Deals 7 damage.\n- Costs 50 mana.`
     );
   }
 }
